@@ -1,0 +1,7 @@
+torch>=2.0.0
+transformers>=4.36.0
+bitsandbytes>=0.41.0
+accelerate>=0.25.0
+numpy>=1.24.0
+nltk>=3.8.1
+pandas>=2.0.0
