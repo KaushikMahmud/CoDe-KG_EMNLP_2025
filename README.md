@@ -8,7 +8,7 @@ This repository contains the source code and dataset for the following paper:
 
 Published in: Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)
 
-[[Paper]](https://arxiv.org/pdf/2509.17289v1)
+[[Paper]](https://aclanthology.org/2025.emnlp-main.783/)
 
 ---
 
